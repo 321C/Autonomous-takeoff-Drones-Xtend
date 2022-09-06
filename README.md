@@ -1,4 +1,4 @@
-# Autonamous-takeoff
+# Autonomous-takeoff
 Project by Lauren(e) Bouskila and Shir Barlas
 
 This project is based on https://github.com/bitcraze/crazyflie-clients-python
